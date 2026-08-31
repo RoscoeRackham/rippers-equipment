@@ -1,0 +1,18 @@
+{
+	"name": "rippers-equipment",
+	"version": "0.1.0",
+	"private": true,
+	"type": "module",
+	"description": "Rippers Unmasked — 1892 Equipment: the QA'd 1892-rethemed basic weapons, armor, shields and services as native Project FU Item packs. Personal-table module.",
+	"scripts": {
+		"build": "node ./tools/build-equipment.mjs",
+		"pack": "node ./tools/pack.mjs",
+		"unpack": "node ./tools/unpack.mjs",
+		"zip": "rm -f rippers-equipment.zip && zip -r -q rippers-equipment.zip module.json README.md packs -x '*/.DS_Store'",
+		"release": "gh release create v$npm_package_version -R RoscoeRackham/rippers-equipment --latest --title \"rippers-equipment v$npm_package_version\" --notes \"rippers-equipment v$npm_package_version\" ./module.json ./rippers-equipment.zip",
+		"publish": "npm run build && npm run pack && npm run zip && npm run release"
+	},
+	"devDependencies": {
+		"@foundryvtt/foundryvtt-cli": "3.0.0"
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"folder": null,
+	"name": "the Warded Cuirass",
+	"type": "armor",
+	"img": "icons/svg/statue.svg",
+	"system": {
+		"subtype": {
+			"value": ""
+		},
+		"summary": {
+			"value": "£1 0s 10d"
+		},
+		"description": "<p><em>Armor · Martial</em></p><p><strong>Defense:</strong> 11<br><strong>Magic Defense:</strong> INS size +1<br><strong>Initiative:</strong> -3</p><p><strong>Price:</strong> £1 0s 10d (250z)</p>",
+		"isFavored": {
+			"value": false
+		},
+		"showTitleCard": {
+			"value": false
+		},
+		"cost": {
+			"value": 250
+		},
+		"isMartial": {
+			"value": true
+		},
+		"quality": {
+			"value": ""
+		},
+		"isEquipped": {
+			"value": false,
+			"slot": ""
+		},
+		"def": {
+			"value": 11
+		},
+		"mdef": {
+			"value": 1
+		},
+		"init": {
+			"value": -3
+		},
+		"isBehavior": {
+			"value": false
+		},
+		"weight": {
+			"value": 1
+		},
+		"attributes": {
+			"primary": {
+				"value": ""
+			},
+			"secondary": {
+				"value": "ins"
+			}
+		},
+		"source": "Rippers Unmasked — 1892 Register",
+		"rollInfo": {
+			"useWeapon": {
+				"hrZero": {
+					"value": false
+				}
+			}
+		},
+		"fuid": "the-warded-cuirass"
+	},
+	"effects": [],
+	"ownership": {
+		"default": 0
+	},
+	"flags": {},
+	"_stats": {
+		"systemId": "projectfu",
+		"coreVersion": "13.0.0"
+	},
+	"sort": 8000,
+	"_id": "REar000000000008",
+	"_key": "!items!REar000000000008"
+}

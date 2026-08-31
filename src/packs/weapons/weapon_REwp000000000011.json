@@ -1,0 +1,94 @@
+{
+	"folder": null,
+	"name": "the Maul",
+	"type": "weapon",
+	"img": "icons/svg/sword.svg",
+	"system": {
+		"subtype": {
+			"value": ""
+		},
+		"summary": {
+			"value": "16s 8d"
+		},
+		"description": "<p><em>Heavy weapon · One-handed</em></p><p><strong>Accuracy:</strong> MIG + MIG<br><strong>Damage:</strong> 【HR + 6】 physical</p><p><strong>Price:</strong> 16s 8d (200z)</p>",
+		"isFavored": {
+			"value": false
+		},
+		"showTitleCard": {
+			"value": false
+		},
+		"cost": {
+			"value": 200
+		},
+		"isMartial": {
+			"value": false
+		},
+		"quality": {
+			"value": ""
+		},
+		"isEquipped": {
+			"value": false,
+			"slot": ""
+		},
+		"attributes": {
+			"primary": {
+				"value": "mig"
+			},
+			"secondary": {
+				"value": "mig"
+			}
+		},
+		"accuracy": {
+			"value": 0
+		},
+		"damage": {
+			"value": 6
+		},
+		"type": {
+			"value": "melee"
+		},
+		"category": {
+			"value": "heavy"
+		},
+		"hands": {
+			"value": "one-handed"
+		},
+		"impType": {
+			"value": "minor"
+		},
+		"damageType": {
+			"value": "physical"
+		},
+		"isBehavior": {
+			"value": false
+		},
+		"weight": {
+			"value": 1
+		},
+		"isCustomWeapon": {
+			"value": false
+		},
+		"source": "Rippers Unmasked — 1892 Register",
+		"rollInfo": {
+			"useWeapon": {
+				"hrZero": {
+					"value": false
+				}
+			}
+		},
+		"defense": "def",
+		"fuid": "the-maul"
+	},
+	"effects": [],
+	"ownership": {
+		"default": 0
+	},
+	"flags": {},
+	"_stats": {
+		"systemId": "projectfu",
+		"coreVersion": "13.0.0"
+	},
+	"sort": 11000,
+	"_id": "REwp000000000011",
+	"_key": "!items!REwp000000000011"
+}

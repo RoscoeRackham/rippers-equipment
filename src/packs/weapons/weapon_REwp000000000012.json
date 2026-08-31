@@ -1,0 +1,94 @@
+{
+	"folder": null,
+	"name": "the Boarding Axe",
+	"type": "weapon",
+	"img": "icons/svg/sword.svg",
+	"system": {
+		"subtype": {
+			"value": ""
+		},
+		"summary": {
+			"value": "£1 0s 10d"
+		},
+		"description": "<p><em>Heavy weapon · One-handed · Martial</em></p><p><strong>Accuracy:</strong> MIG + MIG<br><strong>Damage:</strong> 【HR + 10】 physical</p><p><strong>Price:</strong> £1 0s 10d (250z)</p>",
+		"isFavored": {
+			"value": false
+		},
+		"showTitleCard": {
+			"value": false
+		},
+		"cost": {
+			"value": 250
+		},
+		"isMartial": {
+			"value": true
+		},
+		"quality": {
+			"value": ""
+		},
+		"isEquipped": {
+			"value": false,
+			"slot": ""
+		},
+		"attributes": {
+			"primary": {
+				"value": "mig"
+			},
+			"secondary": {
+				"value": "mig"
+			}
+		},
+		"accuracy": {
+			"value": 0
+		},
+		"damage": {
+			"value": 10
+		},
+		"type": {
+			"value": "melee"
+		},
+		"category": {
+			"value": "heavy"
+		},
+		"hands": {
+			"value": "one-handed"
+		},
+		"impType": {
+			"value": "minor"
+		},
+		"damageType": {
+			"value": "physical"
+		},
+		"isBehavior": {
+			"value": false
+		},
+		"weight": {
+			"value": 1
+		},
+		"isCustomWeapon": {
+			"value": false
+		},
+		"source": "Rippers Unmasked — 1892 Register",
+		"rollInfo": {
+			"useWeapon": {
+				"hrZero": {
+					"value": false
+				}
+			}
+		},
+		"defense": "def",
+		"fuid": "the-boarding-axe"
+	},
+	"effects": [],
+	"ownership": {
+		"default": 0
+	},
+	"flags": {},
+	"_stats": {
+		"systemId": "projectfu",
+		"coreVersion": "13.0.0"
+	},
+	"sort": 12000,
+	"_id": "REwp000000000012",
+	"_key": "!items!REwp000000000012"
+}

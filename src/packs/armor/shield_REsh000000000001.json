@@ -1,0 +1,100 @@
+{
+	"folder": null,
+	"name": "the Targe",
+	"type": "shield",
+	"img": "icons/svg/shield.svg",
+	"system": {
+		"subtype": {
+			"value": ""
+		},
+		"summary": {
+			"value": "8s 4d"
+		},
+		"description": "<p><em>Shield</em></p><p><strong>Defense:</strong> +2<br><strong>Magic Defense:</strong> —<br><strong>Initiative:</strong> 0</p><p><strong>Price:</strong> 8s 4d (100z)</p>",
+		"isFavored": {
+			"value": false
+		},
+		"showTitleCard": {
+			"value": false
+		},
+		"cost": {
+			"value": 100
+		},
+		"isMartial": {
+			"value": false
+		},
+		"quality": {
+			"value": ""
+		},
+		"isEquipped": {
+			"value": false,
+			"slot": ""
+		},
+		"def": {
+			"value": 2
+		},
+		"mdef": {
+			"value": 0
+		},
+		"init": {
+			"value": 0
+		},
+		"attributes": {
+			"primary": {
+				"value": "mig"
+			},
+			"secondary": {
+				"value": "mig"
+			}
+		},
+		"accuracy": {
+			"value": 0
+		},
+		"damage": {
+			"value": 5
+		},
+		"type": {
+			"value": "melee"
+		},
+		"category": {
+			"value": "brawling"
+		},
+		"hands": {
+			"value": "two-handed"
+		},
+		"impType": {
+			"value": "minor"
+		},
+		"damageType": {
+			"value": "physical"
+		},
+		"isBehavior": {
+			"value": false
+		},
+		"weight": {
+			"value": 1
+		},
+		"source": "Rippers Unmasked — 1892 Register",
+		"rollInfo": {
+			"useWeapon": {
+				"hrZero": {
+					"value": false
+				}
+			}
+		},
+		"defense": "def",
+		"fuid": "the-targe"
+	},
+	"effects": [],
+	"ownership": {
+		"default": 0
+	},
+	"flags": {},
+	"_stats": {
+		"systemId": "projectfu",
+		"coreVersion": "13.0.0"
+	},
+	"sort": 10000,
+	"_id": "REsh000000000001",
+	"_key": "!items!REsh000000000001"
+}

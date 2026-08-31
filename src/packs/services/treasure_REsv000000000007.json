@@ -1,0 +1,41 @@
+{
+	"folder": null,
+	"name": "Water Transportation",
+	"type": "treasure",
+	"img": "icons/svg/coins.svg",
+	"system": {
+		"subtype": {
+			"value": "treasure"
+		},
+		"summary": {
+			"value": "1s 8d"
+		},
+		"description": "<p><em>Service</em></p><p>One person travels one day.</p><p><strong>Price:</strong> 1s 8d (20z)</p>",
+		"showTitleCard": {
+			"value": false
+		},
+		"cost": {
+			"value": 20
+		},
+		"quantity": {
+			"value": 1
+		},
+		"origin": {
+			"value": ""
+		},
+		"source": "Rippers Unmasked — 1892 Register",
+		"fuid": "water-transportation"
+	},
+	"effects": [],
+	"ownership": {
+		"default": 0
+	},
+	"flags": {},
+	"_stats": {
+		"systemId": "projectfu",
+		"coreVersion": "13.0.0"
+	},
+	"sort": 7000,
+	"_id": "REsv000000000007",
+	"_key": "!items!REsv000000000007"
+}

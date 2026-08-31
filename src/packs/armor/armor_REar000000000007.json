@@ -1,0 +1,78 @@
+{
+	"folder": null,
+	"name": "the Cuirass",
+	"type": "armor",
+	"img": "icons/svg/statue.svg",
+	"system": {
+		"subtype": {
+			"value": ""
+		},
+		"summary": {
+			"value": "16s 8d"
+		},
+		"description": "<p><em>Armor · Martial</em></p><p><strong>Defense:</strong> 11<br><strong>Magic Defense:</strong> INS size<br><strong>Initiative:</strong> -3</p><p><strong>Price:</strong> 16s 8d (200z)</p>",
+		"isFavored": {
+			"value": false
+		},
+		"showTitleCard": {
+			"value": false
+		},
+		"cost": {
+			"value": 200
+		},
+		"isMartial": {
+			"value": true
+		},
+		"quality": {
+			"value": ""
+		},
+		"isEquipped": {
+			"value": false,
+			"slot": ""
+		},
+		"def": {
+			"value": 11
+		},
+		"mdef": {
+			"value": 0
+		},
+		"init": {
+			"value": -3
+		},
+		"isBehavior": {
+			"value": false
+		},
+		"weight": {
+			"value": 1
+		},
+		"attributes": {
+			"primary": {
+				"value": ""
+			},
+			"secondary": {
+				"value": "ins"
+			}
+		},
+		"source": "Rippers Unmasked — 1892 Register",
+		"rollInfo": {
+			"useWeapon": {
+				"hrZero": {
+					"value": false
+				}
+			}
+		},
+		"fuid": "the-cuirass"
+	},
+	"effects": [],
+	"ownership": {
+		"default": 0
+	},
+	"flags": {},
+	"_stats": {
+		"systemId": "projectfu",
+		"coreVersion": "13.0.0"
+	},
+	"sort": 7000,
+	"_id": "REar000000000007",
+	"_key": "!items!REar000000000007"
+}

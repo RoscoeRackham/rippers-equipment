@@ -1,0 +1,78 @@
+{
+	"folder": null,
+	"name": "the Scholar's Gown",
+	"type": "armor",
+	"img": "icons/svg/statue.svg",
+	"system": {
+		"subtype": {
+			"value": ""
+		},
+		"summary": {
+			"value": "16s 8d"
+		},
+		"description": "<p><em>Armor</em></p><p><strong>Defense:</strong> DEX size +1<br><strong>Magic Defense:</strong> INS size +2<br><strong>Initiative:</strong> -2</p><p><strong>Price:</strong> 16s 8d (200z)</p>",
+		"isFavored": {
+			"value": false
+		},
+		"showTitleCard": {
+			"value": false
+		},
+		"cost": {
+			"value": 200
+		},
+		"isMartial": {
+			"value": false
+		},
+		"quality": {
+			"value": ""
+		},
+		"isEquipped": {
+			"value": false,
+			"slot": ""
+		},
+		"def": {
+			"value": 1
+		},
+		"mdef": {
+			"value": 2
+		},
+		"init": {
+			"value": -2
+		},
+		"isBehavior": {
+			"value": false
+		},
+		"weight": {
+			"value": 1
+		},
+		"attributes": {
+			"primary": {
+				"value": "dex"
+			},
+			"secondary": {
+				"value": "ins"
+			}
+		},
+		"source": "Rippers Unmasked — 1892 Register",
+		"rollInfo": {
+			"useWeapon": {
+				"hrZero": {
+					"value": false
+				}
+			}
+		},
+		"fuid": "the-scholars-gown"
+	},
+	"effects": [],
+	"ownership": {
+		"default": 0
+	},
+	"flags": {},
+	"_stats": {
+		"systemId": "projectfu",
+		"coreVersion": "13.0.0"
+	},
+	"sort": 5000,
+	"_id": "REar000000000005",
+	"_key": "!items!REar000000000005"
+}

@@ -1,0 +1,94 @@
+{
+	"folder": null,
+	"name": "the Chiv",
+	"type": "weapon",
+	"img": "icons/svg/sword.svg",
+	"system": {
+		"subtype": {
+			"value": ""
+		},
+		"summary": {
+			"value": "12s 6d"
+		},
+		"description": "<p><em>Dagger weapon · One-handed</em></p><p><strong>Accuracy:</strong> DEX + INS +1<br><strong>Damage:</strong> 【HR + 4】 physical</p><p><strong>Price:</strong> 12s 6d (150z)</p>",
+		"isFavored": {
+			"value": false
+		},
+		"showTitleCard": {
+			"value": false
+		},
+		"cost": {
+			"value": 150
+		},
+		"isMartial": {
+			"value": false
+		},
+		"quality": {
+			"value": ""
+		},
+		"isEquipped": {
+			"value": false,
+			"slot": ""
+		},
+		"attributes": {
+			"primary": {
+				"value": "dex"
+			},
+			"secondary": {
+				"value": "ins"
+			}
+		},
+		"accuracy": {
+			"value": 1
+		},
+		"damage": {
+			"value": 4
+		},
+		"type": {
+			"value": "melee"
+		},
+		"category": {
+			"value": "dagger"
+		},
+		"hands": {
+			"value": "one-handed"
+		},
+		"impType": {
+			"value": "minor"
+		},
+		"damageType": {
+			"value": "physical"
+		},
+		"isBehavior": {
+			"value": false
+		},
+		"weight": {
+			"value": 1
+		},
+		"isCustomWeapon": {
+			"value": false
+		},
+		"source": "Rippers Unmasked — 1892 Register",
+		"rollInfo": {
+			"useWeapon": {
+				"hrZero": {
+					"value": false
+				}
+			}
+		},
+		"defense": "def",
+		"fuid": "the-chiv"
+	},
+	"effects": [],
+	"ownership": {
+		"default": 0
+	},
+	"flags": {},
+	"_stats": {
+		"systemId": "projectfu",
+		"coreVersion": "13.0.0"
+	},
+	"sort": 8000,
+	"_id": "REwp000000000008",
+	"_key": "!items!REwp000000000008"
+}

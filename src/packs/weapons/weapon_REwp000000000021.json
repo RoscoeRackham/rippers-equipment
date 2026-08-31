@@ -1,0 +1,94 @@
+{
+	"folder": null,
+	"name": "the Throwing Knife",
+	"type": "weapon",
+	"img": "icons/svg/sword.svg",
+	"system": {
+		"subtype": {
+			"value": ""
+		},
+		"summary": {
+			"value": "12s 6d"
+		},
+		"description": "<p><em>Thrown weapon · One-handed</em></p><p><strong>Accuracy:</strong> DEX + INS<br><strong>Damage:</strong> 【HR + 4】 physical</p><p><strong>Price:</strong> 12s 6d (150z)</p>",
+		"isFavored": {
+			"value": false
+		},
+		"showTitleCard": {
+			"value": false
+		},
+		"cost": {
+			"value": 150
+		},
+		"isMartial": {
+			"value": false
+		},
+		"quality": {
+			"value": ""
+		},
+		"isEquipped": {
+			"value": false,
+			"slot": ""
+		},
+		"attributes": {
+			"primary": {
+				"value": "dex"
+			},
+			"secondary": {
+				"value": "ins"
+			}
+		},
+		"accuracy": {
+			"value": 0
+		},
+		"damage": {
+			"value": 4
+		},
+		"type": {
+			"value": "ranged"
+		},
+		"category": {
+			"value": "thrown"
+		},
+		"hands": {
+			"value": "one-handed"
+		},
+		"impType": {
+			"value": "minor"
+		},
+		"damageType": {
+			"value": "physical"
+		},
+		"isBehavior": {
+			"value": false
+		},
+		"weight": {
+			"value": 1
+		},
+		"isCustomWeapon": {
+			"value": false
+		},
+		"source": "Rippers Unmasked — 1892 Register",
+		"rollInfo": {
+			"useWeapon": {
+				"hrZero": {
+					"value": false
+				}
+			}
+		},
+		"defense": "def",
+		"fuid": "the-throwing-knife"
+	},
+	"effects": [],
+	"ownership": {
+		"default": 0
+	},
+	"flags": {},
+	"_stats": {
+		"systemId": "projectfu",
+		"coreVersion": "13.0.0"
+	},
+	"sort": 21000,
+	"_id": "REwp000000000021",
+	"_key": "!items!REwp000000000021"
+}

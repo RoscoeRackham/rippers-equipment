@@ -1,0 +1,58 @@
+{
+	"id": "rippers-equipment",
+	"title": "Rippers Unmasked — 1892 Equipment",
+	"description": "The campaign's QA'd 1892-rethemed basic gear as native Project FU Item packs the GM drags onto sheets and shop tables: 21 basic weapons, 9 armor + 2 shields, and 8 services, each in the 1892 register with its faithful £/s/d price. Mechanics and prices verbatim from the Core Rulebook basic-equipment tables; no automation code. Original campaign content, layered on Project FU. A personal-table module — not for redistribution.",
+	"version": "0.1.0",
+	"url": "https://github.com/RoscoeRackham/rippers-equipment",
+	"manifest": "https://github.com/RoscoeRackham/rippers-equipment/releases/latest/download/module.json",
+	"download": "https://github.com/RoscoeRackham/rippers-equipment/releases/latest/download/rippers-equipment.zip",
+	"compatibility": {
+		"minimum": "13",
+		"verified": "13",
+		"maximum": "13"
+	},
+	"authors": [
+		{ "name": "Austin (cubemail.exe)" }
+	],
+	"packs": [
+		{
+			"name": "weapons",
+			"label": "Rippers — 1892 Weapons",
+			"path": "packs/weapons",
+			"type": "Item",
+			"system": "projectfu"
+		},
+		{
+			"name": "armor",
+			"label": "Rippers — 1892 Armor & Shields",
+			"path": "packs/armor",
+			"type": "Item",
+			"system": "projectfu"
+		},
+		{
+			"name": "services",
+			"label": "Rippers — 1892 Services",
+			"path": "packs/services",
+			"type": "Item",
+			"system": "projectfu"
+		}
+	],
+	"packFolders": [
+		{
+			"name": "Rippers — 1892 Equipment",
+			"sorting": "m",
+			"packs": ["weapons", "armor", "services"]
+		}
+	],
+	"relationships": {
+		"systems": [
+			{ "id": "projectfu", "type": "system" }
+		]
+	},
+	"flags": {
+		"rippers-equipment": {
+			"contentOnly": true,
+			"note": "Native Project FU Item packs (pack system:projectfu): type:weapon (21), type:armor + type:shield (9+2), type:treasure (8 services). Built from lodge-docs/EQUIPMENT-basic-priced-1892.json (QA-passed) by tools/build-equipment.mjs — mapping/formatting only, no re-pricing and no invented items or stats. PRICE MAPPING: cost.value carries the source's Zenit integer (1 zenit = 1 penny per CURRENCY-zenit-and-sterling.md §3), and the human-readable £/s/d string is kept in each item's summary + description where the player reads it. Armor uses PFU's legacy attributes.primary/secondary shape (folded into def.attribute/mdef.attribute by ArmorMigrations on load), matching the base PFU basic-equipment packs. Mounts & Vehicles are priced in the source but have NO 1892 register name (generic printed labels) — OUT of scope, not shipped, flagged as a gap. No FU content is redistributed; no automation code."
+		}
+	}
+}

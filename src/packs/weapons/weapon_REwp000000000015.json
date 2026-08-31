@@ -1,0 +1,94 @@
+{
+	"folder": null,
+	"name": "the Boarding Pike",
+	"type": "weapon",
+	"img": "icons/svg/sword.svg",
+	"system": {
+		"subtype": {
+			"value": ""
+		},
+		"summary": {
+			"value": "16s 8d"
+		},
+		"description": "<p><em>Spear weapon · Two-handed · Martial</em></p><p><strong>Accuracy:</strong> DEX + MIG<br><strong>Damage:</strong> 【HR + 12】 physical</p><p><strong>Price:</strong> 16s 8d (200z)</p>",
+		"isFavored": {
+			"value": false
+		},
+		"showTitleCard": {
+			"value": false
+		},
+		"cost": {
+			"value": 200
+		},
+		"isMartial": {
+			"value": true
+		},
+		"quality": {
+			"value": ""
+		},
+		"isEquipped": {
+			"value": false,
+			"slot": ""
+		},
+		"attributes": {
+			"primary": {
+				"value": "dex"
+			},
+			"secondary": {
+				"value": "mig"
+			}
+		},
+		"accuracy": {
+			"value": 0
+		},
+		"damage": {
+			"value": 12
+		},
+		"type": {
+			"value": "melee"
+		},
+		"category": {
+			"value": "spear"
+		},
+		"hands": {
+			"value": "two-handed"
+		},
+		"impType": {
+			"value": "minor"
+		},
+		"damageType": {
+			"value": "physical"
+		},
+		"isBehavior": {
+			"value": false
+		},
+		"weight": {
+			"value": 1
+		},
+		"isCustomWeapon": {
+			"value": false
+		},
+		"source": "Rippers Unmasked — 1892 Register",
+		"rollInfo": {
+			"useWeapon": {
+				"hrZero": {
+					"value": false
+				}
+			}
+		},
+		"defense": "def",
+		"fuid": "the-boarding-pike"
+	},
+	"effects": [],
+	"ownership": {
+		"default": 0
+	},
+	"flags": {},
+	"_stats": {
+		"systemId": "projectfu",
+		"coreVersion": "13.0.0"
+	},
+	"sort": 15000,
+	"_id": "REwp000000000015",
+	"_key": "!items!REwp000000000015"
+}

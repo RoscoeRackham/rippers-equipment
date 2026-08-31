@@ -1,0 +1,78 @@
+{
+	"folder": null,
+	"name": "the Proof Plate",
+	"type": "armor",
+	"img": "icons/svg/statue.svg",
+	"system": {
+		"subtype": {
+			"value": ""
+		},
+		"summary": {
+			"value": "£1 5s 0d"
+		},
+		"description": "<p><em>Armor · Martial</em></p><p><strong>Defense:</strong> 12<br><strong>Magic Defense:</strong> INS size<br><strong>Initiative:</strong> -4</p><p><strong>Price:</strong> £1 5s 0d (300z)</p>",
+		"isFavored": {
+			"value": false
+		},
+		"showTitleCard": {
+			"value": false
+		},
+		"cost": {
+			"value": 300
+		},
+		"isMartial": {
+			"value": true
+		},
+		"quality": {
+			"value": ""
+		},
+		"isEquipped": {
+			"value": false,
+			"slot": ""
+		},
+		"def": {
+			"value": 12
+		},
+		"mdef": {
+			"value": 0
+		},
+		"init": {
+			"value": -4
+		},
+		"isBehavior": {
+			"value": false
+		},
+		"weight": {
+			"value": 1
+		},
+		"attributes": {
+			"primary": {
+				"value": ""
+			},
+			"secondary": {
+				"value": "ins"
+			}
+		},
+		"source": "Rippers Unmasked — 1892 Register",
+		"rollInfo": {
+			"useWeapon": {
+				"hrZero": {
+					"value": false
+				}
+			}
+		},
+		"fuid": "the-proof-plate"
+	},
+	"effects": [],
+	"ownership": {
+		"default": 0
+	},
+	"flags": {},
+	"_stats": {
+		"systemId": "projectfu",
+		"coreVersion": "13.0.0"
+	},
+	"sort": 9000,
+	"_id": "REar000000000009",
+	"_key": "!items!REar000000000009"
+}

@@ -1,0 +1,94 @@
+{
+	"folder": null,
+	"name": "the Naval Saber",
+	"type": "weapon",
+	"img": "icons/svg/sword.svg",
+	"system": {
+		"subtype": {
+			"value": ""
+		},
+		"summary": {
+			"value": "16s 8d"
+		},
+		"description": "<p><em>Sword weapon · Two-handed · Martial</em></p><p><strong>Accuracy:</strong> DEX + INS +1<br><strong>Damage:</strong> 【HR + 10】 physical</p><p><strong>Price:</strong> 16s 8d (200z)</p>",
+		"isFavored": {
+			"value": false
+		},
+		"showTitleCard": {
+			"value": false
+		},
+		"cost": {
+			"value": 200
+		},
+		"isMartial": {
+			"value": true
+		},
+		"quality": {
+			"value": ""
+		},
+		"isEquipped": {
+			"value": false,
+			"slot": ""
+		},
+		"attributes": {
+			"primary": {
+				"value": "dex"
+			},
+			"secondary": {
+				"value": "ins"
+			}
+		},
+		"accuracy": {
+			"value": 1
+		},
+		"damage": {
+			"value": 10
+		},
+		"type": {
+			"value": "melee"
+		},
+		"category": {
+			"value": "sword"
+		},
+		"hands": {
+			"value": "two-handed"
+		},
+		"impType": {
+			"value": "minor"
+		},
+		"damageType": {
+			"value": "physical"
+		},
+		"isBehavior": {
+			"value": false
+		},
+		"weight": {
+			"value": 1
+		},
+		"isCustomWeapon": {
+			"value": false
+		},
+		"source": "Rippers Unmasked — 1892 Register",
+		"rollInfo": {
+			"useWeapon": {
+				"hrZero": {
+					"value": false
+				}
+			}
+		},
+		"defense": "def",
+		"fuid": "the-naval-saber"
+	},
+	"effects": [],
+	"ownership": {
+		"default": 0
+	},
+	"flags": {},
+	"_stats": {
+		"systemId": "projectfu",
+		"coreVersion": "13.0.0"
+	},
+	"sort": 18000,
+	"_id": "REwp000000000018",
+	"_key": "!items!REwp000000000018"
+}

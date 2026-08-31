@@ -1,0 +1,78 @@
+{
+	"folder": null,
+	"name": "the Silk Waistcoat",
+	"type": "armor",
+	"img": "icons/svg/statue.svg",
+	"system": {
+		"subtype": {
+			"value": ""
+		},
+		"summary": {
+			"value": "8s 4d"
+		},
+		"description": "<p><em>Armor</em></p><p><strong>Defense:</strong> DEX size<br><strong>Magic Defense:</strong> INS size +2<br><strong>Initiative:</strong> -1</p><p><strong>Price:</strong> 8s 4d (100z)</p>",
+		"isFavored": {
+			"value": false
+		},
+		"showTitleCard": {
+			"value": false
+		},
+		"cost": {
+			"value": 100
+		},
+		"isMartial": {
+			"value": false
+		},
+		"quality": {
+			"value": ""
+		},
+		"isEquipped": {
+			"value": false,
+			"slot": ""
+		},
+		"def": {
+			"value": 0
+		},
+		"mdef": {
+			"value": 2
+		},
+		"init": {
+			"value": -1
+		},
+		"isBehavior": {
+			"value": false
+		},
+		"weight": {
+			"value": 1
+		},
+		"attributes": {
+			"primary": {
+				"value": "dex"
+			},
+			"secondary": {
+				"value": "ins"
+			}
+		},
+		"source": "Rippers Unmasked — 1892 Register",
+		"rollInfo": {
+			"useWeapon": {
+				"hrZero": {
+					"value": false
+				}
+			}
+		},
+		"fuid": "the-silk-waistcoat"
+	},
+	"effects": [],
+	"ownership": {
+		"default": 0
+	},
+	"flags": {},
+	"_stats": {
+		"systemId": "projectfu",
+		"coreVersion": "13.0.0"
+	},
+	"sort": 2000,
+	"_id": "REar000000000002",
+	"_key": "!items!REar000000000002"
+}

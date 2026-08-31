@@ -1,0 +1,94 @@
+{
+	"folder": null,
+	"name": "the Vade Mecum",
+	"type": "weapon",
+	"img": "icons/svg/sword.svg",
+	"system": {
+		"subtype": {
+			"value": ""
+		},
+		"summary": {
+			"value": "8s 4d"
+		},
+		"description": "<p><em>Arcane weapon · Two-handed</em></p><p><strong>Accuracy:</strong> INS + INS<br><strong>Damage:</strong> 【HR + 6】 physical</p><p><strong>Price:</strong> 8s 4d (100z)</p>",
+		"isFavored": {
+			"value": false
+		},
+		"showTitleCard": {
+			"value": false
+		},
+		"cost": {
+			"value": 100
+		},
+		"isMartial": {
+			"value": false
+		},
+		"quality": {
+			"value": ""
+		},
+		"isEquipped": {
+			"value": false,
+			"slot": ""
+		},
+		"attributes": {
+			"primary": {
+				"value": "ins"
+			},
+			"secondary": {
+				"value": "ins"
+			}
+		},
+		"accuracy": {
+			"value": 0
+		},
+		"damage": {
+			"value": 6
+		},
+		"type": {
+			"value": "melee"
+		},
+		"category": {
+			"value": "arcane"
+		},
+		"hands": {
+			"value": "two-handed"
+		},
+		"impType": {
+			"value": "minor"
+		},
+		"damageType": {
+			"value": "physical"
+		},
+		"isBehavior": {
+			"value": false
+		},
+		"weight": {
+			"value": 1
+		},
+		"isCustomWeapon": {
+			"value": false
+		},
+		"source": "Rippers Unmasked — 1892 Register",
+		"rollInfo": {
+			"useWeapon": {
+				"hrZero": {
+					"value": false
+				}
+			}
+		},
+		"defense": "def",
+		"fuid": "the-vade-mecum"
+	},
+	"effects": [],
+	"ownership": {
+		"default": 0
+	},
+	"flags": {},
+	"_stats": {
+		"systemId": "projectfu",
+		"coreVersion": "13.0.0"
+	},
+	"sort": 2000,
+	"_id": "REwp000000000002",
+	"_key": "!items!REwp000000000002"
+}
